@@ -1,4 +1,4 @@
-/**
+highlight-block-inner/**
  * File: styles.css
  * Description : Contains all necessary styling for the Restore - Computer, Mobile & Digital Repair Shop HTML5 Template
  * Author: codeecstasy
@@ -1197,10 +1197,11 @@ hr.space {
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+
 .highlight-block .highlight-block-inner h5 {
   font-weight: 600;
   margin-bottom: 18px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 18px;
 }
 .highlight-block .highlight-block-inner a {
@@ -1223,9 +1224,11 @@ hr.space {
 .highlight-block:hover a {
   background: #333333;
 }
+
 .highlight-block:hover i {
   color: #f69323;
 }
+
 .highlights-block2 {
   background: #f2f2f2;
   padding: 6px;
