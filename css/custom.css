@@ -1,8 +1,8 @@
 
 
 .highlight-block .highlight-block-inner > img {
-    filter: gray; /* IE6-9 */
-  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+   filter: none;
+  -webkit-filter: none;
   display: block;
   height: 70px;
   margin-bottom: 23px;
@@ -12,7 +12,11 @@
   transition: all 0.2s ease-out;
 }
 .highlight-block:hover img {
-  filter: none;
-/*  -webkit-filter: grayscale(0%);
-*/  -webkit-filter: none;
+  
+   filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
 }
+
+
+f69323
+/**/
