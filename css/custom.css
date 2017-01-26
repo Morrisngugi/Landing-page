@@ -20,3 +20,62 @@
 
 f69323
 /**/
+
+a,.btn-custom:hover,.btn-custom-inverse {
+  color: #f69323;
+}
+
+.btn-dynamism:hover,.btn-custom-inverse:hover,
+a.btn-load-more:hover,.main-header .top-donate-btn,
+.navbar-default .navbar-nav > li > a.link-active,
+.highlight-block .highlight-block-inner a ,
+.navbar-default .navbar-nav > li > a:hover,
+#slider_1 .slider-content h2 span,#slider_1 .slider-content a.btn-slider:hover,
+#slider_1 .slider-content a.btn-slider-2,.footer-section .footer-nav ul li:after,
+ .btn-dynamism:hover,a.btn-load-more:hover, .main-header .top-donate-btn,
+ .navbar-default .navbar-nav > li > a.link-active,.main-header .top-donate-btn,
+ .highlight-block .highlight-block-inner a,.navbar-default .navbar-nav > li > a:hover,
+ #slider_1 .slider-content h2 span,#slider_1 .slider-content a.btn-slider:hover ,
+ #slider_1 .slider-content a.btn-slider-2,.footer-section .footer-nav ul li:after{
+  background: #f69323;  
+}
+
+#slider_2 .slider-content a.btn-slider,
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover,
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover  {
+  background: #f69323;
+  border: 2px solid #f69323;
+}
+
+.navbar .social-icons a:hover,
+.btn-custom,#comment_btn:hover,
+.repair-header-top .btn-quote .btn-request_quote,
+a.btn-load-more,.btn-custom,span.border-light-dotted   {
+  border: 2px solid #f69323;
+  background: #f69323;
+}
+
+#backTop.custom {
+  background-color: #f69323;
+}
+
+span.border-bold-dashed {
+  border-bottom: 2px dashed #f69323;
+}
+
+span.border-light-dotted {
+  border-bottom: 1px dotted #f69323;
+}
+span.border-bold-dashed {
+  border-bottom: 2px dashed #f69323;
+}
+  
+  
+ 
+
+
+
+ 
+
+
+ 
