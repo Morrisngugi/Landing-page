@@ -40,7 +40,21 @@ a.btn-load-more:hover,.main-header .top-donate-btn,
   background: #f69323;  
 }
 
-#backTop.custom {
+#slider_2 .slider-content a.btn-slider,
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover,
+.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover  {
+  background: #f69323;
+  border: 2px solid #f69323;
+}
+
+.navbar .social-icons a:hover,
+.btn-custom , {
+  border: 1px solid #f69323;
+  background: #f69323;
+}
+
+
+#backTop.custom, #backTop.custom  {
   background-color: #f69323;
 }
 
@@ -92,10 +106,6 @@ header.one-page .navbar-nav > li > a span {
 }.navbar .social-icons a {
   color: #f69323;
 }
-.navbar .social-icons a:hover {
-  border: 1px solid #f69323;
-  background: #f69323;
-}
 
     .highlight-block:hover i {
   color: #f69323;
@@ -113,10 +123,9 @@ header.one-page .navbar-nav > li > a span {
  
  
 
-#slider_2 .slider-content a.btn-slider {
-  background: #f69323;
-  border: 2px solid #f69323;
-}
+
+
+
 #slider_2 .slider-content a.btn-slider:hover {
   border: 2px solid #f69323;
 }
@@ -126,10 +135,7 @@ header.one-page .navbar-nav > li > a span {
 .footer-widget-area-bg .footer-widget-area .contact-details .social-icons a {
   color: #f69323;
 }
-.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover {
-  border: 2px solid #f69323;
-  background: #f69323;
-}
+
 .footer-widget-area-bg .footer-widget-area .color-primary a {
   color: #f69323;
 }
@@ -158,20 +164,14 @@ header.one-page .navbar-nav > li > a span {
   a {
   color: #f69323;
 }
-#backTop.custom {
-  background-color: #f69323;
-}
+
 span.border-light-dotted {
   border-bottom: 1px dotted #f69323;
 }
 span.border-bold-dashed {
   border-bottom: 2px dashed #f69323;
 }
- 
-.btn-custom {
-  border: 1px solid #f69323;
-  background: #f69323;
-}
+
 .btn-custom:hover {
   color: #f69323;
 }
@@ -217,10 +217,12 @@ header.one-page .navbar-nav > li > a span {
 .navbar .social-icons a {;
   color: #f69323;;
 }
-.navbar .social-icons a:hover {
-  border: 1px solid #f69323;
-  background: #f69323;
-}
+
+
+
+
+
+
  
 .highlight-block:hover i {
   color: #f69323;
@@ -240,11 +242,7 @@ header.one-page .navbar-nav > li > a span {
 #slider_1 .slider-content a.btn-slider-2:hover {
   color: #f69323;
 }
-#slider_2 .slider-content a.btn-slider {
-  background: #f69323;
-  border: 2px solid #f69323;
-
-}
+ 
 #slider_2 .slider-content a.btn-slider:hover {
   border: 2px solid #f69323;
 }
@@ -254,10 +252,7 @@ header.one-page .navbar-nav > li > a span {
 .footer-widget-area-bg .footer-widget-area .contact-details .social-icons a {
   color: #f69323;
 }
-.footer-widget-area-bg .footer-widget-area .contact-details .social-icons a:hover {
-  border: 2px solid #f69323;
-  background: #f69323;
-}
+ 
 .footer-widget-area-bg .footer-widget-area .color-primary a {
   color: #f69323;
 }
