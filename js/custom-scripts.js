@@ -88,7 +88,7 @@ jQuery(function ($) {
              items: 1,
             loop: true,
             autoplay: true,
-            autoplayTimeout: 5000,
+            autoplayTimeout: 2500,
             autoplayHoverPause: true,
             responsive: {
                 0: {
